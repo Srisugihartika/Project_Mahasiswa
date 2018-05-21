@@ -1,9 +1,9 @@
 <?php
 class Koneksi{
   private $server="localhost";
-  private $username="root";
+  private $username="id4962314_atik";
   private $password = "";
-  private $db = "data_mahasiswa";
+  private $db = "id4962314_srisugihartika";
   private $hubungan;
 
   function ambilKoneksi(){
