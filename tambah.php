@@ -1,4 +1,4 @@
-<h2>Fomrmulir Tambah Data Mahasiswa</h2>
+<h2>Formulir Tambah Data Mahasiswa</h2>
 
 <hr>
 <form action="simpan.php" method="POST">
